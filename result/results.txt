@@ -1,0 +1,12 @@
+SMO MODEL RESULTS
+
+Lambda interval: 100 ms | Total: 100 | Served: 30 | Rejected: 70 | P_idle: 0,700 | P_reject: 0,700 | Q: 0,300 | A: 3,000 | Busy: 0,900
+Lambda interval: 200 ms | Total: 100 | Served: 59 | Rejected: 41 | P_idle: 0,410 | P_reject: 0,410 | Q: 0,590 | A: 5,900 | Busy: 1,770
+Lambda interval: 300 ms | Total: 100 | Served: 75 | Rejected: 25 | P_idle: 0,250 | P_reject: 0,250 | Q: 0,750 | A: 7,500 | Busy: 2,250
+Lambda interval: 400 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 500 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 600 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 700 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 800 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 900 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
+Lambda interval: 1000 ms | Total: 100 | Served: 100 | Rejected: 0 | P_idle: 0,000 | P_reject: 0,000 | Q: 1,000 | A: 10,000 | Busy: 3,000
